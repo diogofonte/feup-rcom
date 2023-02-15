@@ -1,2 +1,10 @@
-# feup-rcom
-Projects done as part of the curricular unit Algorithms Design at LEIC (FEUP). Use of C and routers/switches MikroTik to create a data link protocol and configure a computer networks.
+# Computer Networks - RCOM - FEUP
+
+Projects developed during the 1st semester of the 2022/2023 academic year.
+
+- [Project 1](/project-1)
+- [Project 2](/project-2)
+
+### Group Elements:
+- Ana Rita Baptista de Oliveira, up202004155
+- Diogo Alexandre da Costa Melo Moreira da Fonte, up202004175
